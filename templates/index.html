@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIDC Land Bank Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Chat Widget Container -->
+    <div class="chat-widget-container" id="chatWidget">
+        <!-- Chat Widget Header -->
+        <div class="chat-widget-header">
+            <div class="chat-header-content">
+                <div class="chat-logo">
+                    <div class="midc-logo">
+                        <img src="{{ url_for('static', filename='images/midc-logo.jpg') }}" alt="MIDC Logo" class="logo-image">
+                    </div>
+                    <span class="chat-title">MIDC Assistant</span>
+                </div>
+                <button class="chat-toggle-btn" id="chatToggle">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+        </div>
+
+        <!-- Chat Messages Area -->
+        <div class="chat-messages" id="chatMessages">
+            <!-- Welcome Message -->
+            <div class="message bot-message">
+                <div class="message-avatar">
+                    <i class="fas fa-robot"></i>
+                </div>
+                <div class="message-content">
+                    <div class="message-text">
+                        <p>🏢 Welcome to MIDC Land Bank Assistant! / MIDC लँड बँक सहाय्यक मध्ये आपले स्वागत आहे!</p>
+                        <p>I can help you find information about: / मी तुम्हाला याबद्दल माहिती शोधण्यात मदत करू शकतो:</p>
+                        <ul>
+                            <li>📋 Available commercial plots / उपलब्ध व्यावसायिक प्लॉट</li>
+                            <li>🏭 Industrial plot details / औद्योगिक प्लॉट तपशील</li>
+                            <li>🏠 Residential plot information / निवासी प्लॉट माहिती</li>
+                            <li>💰 Pricing and tendering status / किंमत आणि निविदा स्थिती</li>
+                            <li>📍 Location details and specifications / स्थान तपशील आणि वैशिष्ट्ये</li>
+                        </ul>
+                        <p><strong>🌐 Multilingual Support:</strong> Ask in English or Marathi / मराठी किंवा इंग्रजीत प्रश्न विचारा</p>
+                        <p>How can I assist you today? / आज मी तुमची कशी मदत करू शकतो?</p>
+                    </div>
+                    <div class="message-time" id="welcomeTime"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Typing Indicator -->
+        <div class="typing-indicator" id="typingIndicator" style="display: none;">
+            <div class="typing-avatar">
+                <i class="fas fa-robot"></i>
+            </div>
+            <div class="typing-content">
+                <div class="typing-dots">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <span class="typing-text">AI is thinking...</span>
+            </div>
+        </div>
+
+        <!-- Input Area -->
+        <div class="chat-input-area">
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <input type="text" id="messageInput" placeholder="Ask about MIDC plots, pricing, availability..." autocomplete="off">
+                    <button id="sendButton" class="send-button">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <div class="input-suggestions">
+                    <span class="suggestion" data-query="Show me available commercial plots">Commercial plots</span>
+                    <span class="suggestion" data-query="What industrial plots are available?">Industrial plots</span>
+                    <span class="suggestion" data-query="Tell me about residential plots">Residential plots</span>
+                    <span class="suggestion" data-query="What are the current plot prices?">Plot prices</span>
+                    <span class="suggestion" data-query="पुणे मध्ये व्यावसायिक प्लॉट दाखवा">पुणे व्यावसायिक</span>
+                    <span class="suggestion" data-query="औद्योगिक प्लॉट कोणते उपलब्ध आहेत?">औद्योगिक प्लॉट</span>
+                    <span class="suggestion" data-query="निवासी प्लॉट बद्दल सांगा">निवासी प्लॉट</span>
+                    <span class="suggestion" data-query="सध्याच्या प्लॉट किंमती काय आहेत?">प्लॉट किंमती</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Floating Chat Button -->
+    <div class="floating-chat-btn" id="floatingChatBtn">
+        <div class="floating-logo">
+            <img src="{{ url_for('static', filename='images/midc-logo.jpg') }}" alt="MIDC Logo" class="floating-logo-image">
+        </div>
+        <span class="chat-badge">MIDC Assistant</span>
+    </div>
+
+    <!-- Context Documents Modal -->
+    <div class="modal" id="contextModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Source Documents</h3>
+                <button class="close-modal" id="closeModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body" id="contextContent">
+                <!-- Context documents will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

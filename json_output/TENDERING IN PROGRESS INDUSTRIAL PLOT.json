@@ -1,0 +1,404 @@
+[
+  {
+    "Regional Office": "RO Akola",
+    "Industrial Area": "Lonar (Mini)",
+    "Total Plots Available": 3,
+    "Current Rate (Rs/sq meter)": 200
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Chimur (Mini)",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 200
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Gadchiroli",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 200
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Kurkheda",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 200
+  },
+  {
+    "Regional Office": "RO AMRAVATI",
+    "Industrial Area": "Dharni (Mini)",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 220
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Rajura (Mini)",
+    "Total Plots Available": 3,
+    "Current Rate (Rs/sq meter)": 220
+  },
+  {
+    "Regional Office": "RO Satara",
+    "Industrial Area": "Patan",
+    "Total Plots Available": 4,
+    "Current Rate (Rs/sq meter)": 220
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Warora",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Bhadravati (Mini)",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO Chhatrapati Sambhajinagar",
+    "Industrial Area": "Ambad (Mini)",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO DHULE",
+    "Industrial Area": "Nardana Ph-2",
+    "Total Plots Available": 4,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO Jalgaon",
+    "Industrial Area": "Chalisgaon",
+    "Total Plots Available": 10,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO LATUR",
+    "Industrial Area": "Kalamb (Mini)",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Bhivapur (Mini)",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Lakhandur",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Nagbhid",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO NANDED",
+    "Industrial Area": "Kinwat",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO NANDED",
+    "Industrial Area": "Jintur",
+    "Total Plots Available": 10,
+    "Current Rate (Rs/sq meter)": 250
+  },
+  {
+    "Regional Office": "RO AMRAVATI",
+    "Industrial Area": "Addl. Amravati (Textile Park)",
+    "Total Plots Available": 7,
+    "Current Rate (Rs/sq meter)": 290
+  },
+  {
+    "Regional Office": "RO Akola",
+    "Industrial Area": "Murtizapur",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 300
+  },
+  {
+    "Regional Office": "RO Akola",
+    "Industrial Area": "Washim",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 300
+  },
+  {
+    "Regional Office": "RO AMRAVATI",
+    "Industrial Area": "Chandur Railway (Mini)",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 300
+  },
+  {
+    "Regional Office": "RO AMRAVATI",
+    "Industrial Area": "Warud (Mini)",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 300
+  },
+  {
+    "Regional Office": "RO AMRAVATI",
+    "Industrial Area": "Pusad",
+    "Total Plots Available": 12,
+    "Current Rate (Rs/sq meter)": 300
+  },
+  {
+    "Regional Office": "RO LATUR",
+    "Industrial Area": "Umarga",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 300
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Katol",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 310
+  },
+  {
+    "Regional Office": "RO Akola",
+    "Industrial Area": "Malakapur",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 350
+  },
+  {
+    "Regional Office": "RO NANDED",
+    "Industrial Area": "Krushnur (Central Goverment Growth Center)",
+    "Total Plots Available": 3,
+    "Current Rate (Rs/sq meter)": 350
+  },
+  {
+    "Regional Office": "RO AMRAVATI",
+    "Industrial Area": "Addl. Yavatmal",
+    "Total Plots Available": 7,
+    "Current Rate (Rs/sq meter)": 400
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Deoli",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 400
+  },
+  {
+    "Regional Office": "RO Jalgaon",
+    "Industrial Area": "Bhusaval",
+    "Total Plots Available": 15,
+    "Current Rate (Rs/sq meter)": 400
+  },
+  {
+    "Regional Office": "RO Solapur",
+    "Industrial Area": "Kurduwadi",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 400
+  },
+  {
+    "Regional Office": "RO RATNAGIRI",
+    "Industrial Area": "Kherdi-Chiplun",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 410
+  },
+  {
+    "Regional Office": "RO SANGLI ",
+    "Industrial Area": "Shirala",
+    "Total Plots Available": 2,
+    "Current Rate (Rs/sq meter)": 440
+  },
+  {
+    "Regional Office": "RO DHULE",
+    "Industrial Area": "Addl. Nandurbar (Bhaler)",
+    "Total Plots Available": 40,
+    "Current Rate (Rs/sq meter)": 450
+  },
+  {
+    "Regional Office": "RO AMRAVATI",
+    "Industrial Area": "Addl. Amravati (Nandgaon Peth)",
+    "Total Plots Available": 16,
+    "Current Rate (Rs/sq meter)": 484
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Umred",
+    "Total Plots Available": 9,
+    "Current Rate (Rs/sq meter)": 500
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Wardha",
+    "Total Plots Available": 5,
+    "Current Rate (Rs/sq meter)": 510
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Chandrapur Tadali (Central Government Growth Center)",
+    "Total Plots Available": 8,
+    "Current Rate (Rs/sq meter)": 510
+  },
+  {
+    "Regional Office": "RO Baramati",
+    "Industrial Area": "Indapur",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 550
+  },
+  {
+    "Regional Office": "RO Chandrapur",
+    "Industrial Area": "Addl. Chandrapur ",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 550
+  },
+  {
+    "Regional Office": "RO Solapur",
+    "Industrial Area": "Chincholi",
+    "Total Plots Available": 9,
+    "Current Rate (Rs/sq meter)": 550
+  },
+  {
+    "Regional Office": "RO Satara",
+    "Industrial Area": "Wai",
+    "Total Plots Available": 3,
+    "Current Rate (Rs/sq meter)": 600
+  },
+  {
+    "Regional Office": "RO Satara",
+    "Industrial Area": "Lonand",
+    "Total Plots Available": 4,
+    "Current Rate (Rs/sq meter)": 600
+  },
+  {
+    "Regional Office": "RO Solapur",
+    "Industrial Area": "Barshi",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 650
+  },
+  {
+    "Regional Office": "RO Ahilyanagar",
+    "Industrial Area": "Shrirampur",
+    "Total Plots Available": 14,
+    "Current Rate (Rs/sq meter)": 740
+  },
+  {
+    "Regional Office": "RO PANVEL",
+    "Industrial Area": "Vile-Bhagad",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 760
+  },
+  {
+    "Regional Office": "RO Ahilyanagar",
+    "Industrial Area": "Newasa",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 850
+  },
+  {
+    "Regional Office": "RO RATNAGIRI",
+    "Industrial Area": "Addl. Lote-Parshuram",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 850
+  },
+  {
+    "Regional Office": "RO SANGLI ",
+    "Industrial Area": "Shalgaon-Bombalewadi",
+    "Total Plots Available": 4,
+    "Current Rate (Rs/sq meter)": 850
+  },
+  {
+    "Regional Office": "RO Akola",
+    "Industrial Area": "Akola (Central Goverment Growth Center)",
+    "Total Plots Available": 44,
+    "Current Rate (Rs/sq meter)": 900
+  },
+  {
+    "Regional Office": "RO Satara",
+    "Industrial Area": "Phaltan",
+    "Total Plots Available": 13,
+    "Current Rate (Rs/sq meter)": 1060
+  },
+  {
+    "Regional Office": "RO NASHIK",
+    "Industrial Area": "Malegaon (Ajang-Ravalgaon)",
+    "Total Plots Available": 5,
+    "Current Rate (Rs/sq meter)": 1580
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Butibori IT Park",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 1755
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Addl. Butibori",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 2000
+  },
+  {
+    "Regional Office": "RO NAGPUR",
+    "Industrial Area": "Butibori Ph-2",
+    "Total Plots Available": 7,
+    "Current Rate (Rs/sq meter)": 2000
+  },
+  {
+    "Regional Office": "RO Baramati",
+    "Industrial Area": "Baramati Ph-2",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 2180
+  },
+  {
+    "Regional Office": "RO Satara",
+    "Industrial Area": "Khandala Ph-1",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 2300
+  },
+  {
+    "Regional Office": "RO Chhatrapati Sambhajinagar",
+    "Industrial Area": "Shendra Five Star",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 2730
+  },
+  {
+    "Regional Office": "RO NASHIK",
+    "Industrial Area": "Addl. Dindori",
+    "Total Plots Available": 5,
+    "Current Rate (Rs/sq meter)": 3000
+  },
+  {
+    "Regional Office": "RO PUNE-II",
+    "Industrial Area": "Ranjangaon",
+    "Total Plots Available": 3,
+    "Current Rate (Rs/sq meter)": 3110
+  },
+  {
+    "Regional Office": "RO PUNE-II (IT)",
+    "Industrial Area": "Ranjangaon",
+    "Total Plots Available": 3,
+    "Current Rate (Rs/sq meter)": 3110
+  },
+  {
+    "Regional Office": "RO PANVEL",
+    "Industrial Area": "Addl. Patalganga",
+    "Total Plots Available": 214,
+    "Current Rate (Rs/sq meter)": 4840
+  },
+  {
+    "Regional Office": "RO PUNE-I",
+    "Industrial Area": "Talegaon Ph-2",
+    "Total Plots Available": 11,
+    "Current Rate (Rs/sq meter)": 5730
+  },
+  {
+    "Regional Office": "RO PUNE-I",
+    "Industrial Area": "Chakan Ph-3",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 5780
+  },
+  {
+    "Regional Office": "RO PANVEL",
+    "Industrial Area": "Patalganga Borivali",
+    "Total Plots Available": 1,
+    "Current Rate (Rs/sq meter)": 7630
+  },
+  {
+    "Regional Office": "RO THANE-II",
+    "Industrial Area": "Addl. Ambernath Jambhivali Ph-4",
+    "Total Plots Available": 9,
+    "Current Rate (Rs/sq meter)": 7890
+  }
+]
