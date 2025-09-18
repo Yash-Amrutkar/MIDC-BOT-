@@ -183,14 +183,7 @@ class MIDCChatbot {
             messageTime.appendChild(languageIndicator);
         }
         
-        // Add context docs button if available
-        if (contextDocs && contextDocs.length > 0) {
-            const contextButton = document.createElement('button');
-            contextButton.className = 'context-button';
-            contextButton.innerHTML = '<i class="fas fa-file-alt"></i> View Sources';
-            contextButton.addEventListener('click', () => this.showContextDocs(contextDocs));
-            messageContent.appendChild(contextButton);
-        }
+        // View Sources button removed as requested
         
         messageContent.appendChild(messageText);
         messageContent.appendChild(messageTime);
